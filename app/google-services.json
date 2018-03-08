@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584537299323",
+    "firebase_url": "https://bus-tracker-project-f0928.firebaseio.com",
+    "project_id": "bus-tracker-project-f0928",
+    "storage_bucket": "bus-tracker-project-f0928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584537299323:android:ab0845b85a8cf71d",
+        "android_client_info": {
+          "package_name": "com.example.aniru.bustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584537299323-cm8erppr6eg2gbqv8s565uv31o2qltr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aniru.bustracker",
+            "certificate_hash": "c10c602edda31a4d8a2c2dfbf2f0dac9bcf76f42"
+          }
+        },
+        {
+          "client_id": "584537299323-bk3td7f9o54ps1v7mpuoobnhfsfe60df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClY6wTdM6TiYGNFjmqUm8EbIdGuccTYFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584537299323-bk3td7f9o54ps1v7mpuoobnhfsfe60df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
